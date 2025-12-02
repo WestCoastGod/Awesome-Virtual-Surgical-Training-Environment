@@ -45,7 +45,3 @@ Simulation platforms built on Unity engine for surgical training and VR applicat
 - [Awesome-Surgical-Video-Understanding](https://github.com/isyangshu/Awesome-Surgical-Video-Understanding) - Comprehensive collection of surgical video understanding papers and datasets
 
 ---
-
-## Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
